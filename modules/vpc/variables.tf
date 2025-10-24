@@ -13,5 +13,5 @@ variable "vpc_region" {
 variable "vpc_ip_cidr" {
     type = string
     description = "IP Range for VPC"
-    default = "10.10.10.0/24"
+    default = "10.89.1.0/24"
 }
